@@ -1,0 +1,6 @@
+<beans>
+   <bean id="dev" class="org.example">
+
+   </bean>
+
+</beans>
